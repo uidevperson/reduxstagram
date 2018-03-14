@@ -1,10 +1,6 @@
 // let's go!
 import React from 'react';
 import { render } from 'react-dom';
-import css from './styles/style.stl';
+import css from './styles/style.styl';
 
-// App Component {
-
-// }
-
-// export default App;
+render(<p>Hi</p>, document.getElementById('root'));

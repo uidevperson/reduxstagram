@@ -1,7 +1,4 @@
-# reduxstagram
-redux app
-
-## Running
+### Running
 
 First `npm install` to grab all the necessary dependencies. 
 
