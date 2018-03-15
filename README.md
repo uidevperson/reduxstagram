@@ -1,3 +1,5 @@
+### SIMple React/redux app
+
 ### Running
 
 First `npm install` to grab all the necessary dependencies. 
