@@ -1,4 +1,4 @@
-### SIMple React/redux app
+### Simple React/redux app
 
 ### Running
 
