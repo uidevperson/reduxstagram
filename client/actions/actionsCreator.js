@@ -1,5 +1,4 @@
 // action creator
-
 // increment
 export function increment(index){
 	return {
