@@ -2,6 +2,7 @@
 // 1. the action (what happened)
 // 2. takes in a copy of the current start
 function posts(state=[], action){
+	console.log('the Post will change');
 	console.log(state, action);
 	return state;
 }
