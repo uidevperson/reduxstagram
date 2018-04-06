@@ -4,7 +4,9 @@ const PhotoGrid = React.createClass({
   render() {
     return (
       <div className="photo-grid">
-      	I'm the photo grid
+      	<pre>
+      		{JSON.stringify(this.props.posts, null, '')}
+      	</pre>
       </div>
     )
   }
