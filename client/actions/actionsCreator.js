@@ -1,7 +1,7 @@
 // action creator
 // increment
 export function increment(index){
-	console.log('INCREMENT CALLED');
+	
 	
 	return {
 		type: 'INCREMENT_LIKES',
@@ -10,6 +10,7 @@ export function increment(index){
 }
 // add comment
 export function addComment(postID, author, comment){
+	console.log('addComment CALLED');
 	return {
 		type: 'ADD_COMMENT',
 		author,
