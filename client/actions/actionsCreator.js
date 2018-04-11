@@ -1,6 +1,8 @@
 // action creator
 // increment
 export function increment(index){
+	console.log('INCREMENT CALLED');
+	
 	return {
 		type: 'INCREMENT_LIKES',
 		index
