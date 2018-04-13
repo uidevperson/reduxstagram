@@ -11,7 +11,7 @@ const Comments = React.createClass({
     
   },
   renderComment(comment, i) {
-    return ( 
+    return (  
       <div className="comment" key={i}>
         <p>
           <strong>{comment.user}</strong>
